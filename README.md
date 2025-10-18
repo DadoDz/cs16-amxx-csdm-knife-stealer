@@ -13,7 +13,7 @@ A fun and competitive Counter-Strike 1.6 plugin designed for CSDM (Deathmatch) s
 ## Description
 When a player kills another using a knife, this plugin randomly determines how much money the killer steals from the victim, depending on luck and whether the kill was a headshot, the killer can rob a portion or even all of the victim’s money!
 
-##### Robbery Chances:
+#### Robbery Chances:
   - 1–75% ---> **Steal 1250$ (2500$ if headshot)**
   - 76–80% ---> **Steal 0$ (failed attempt)**
   - 81–95% ---> **Steal a random amount of the victim’s money**
